@@ -1,0 +1,1564 @@
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 1 ------------------------------------------
+DEBUG:__main__: Response got for Entry (FIRST TIME) :  2022-08-14 10:00:00 
+INFO:__main__:     idx    place      station                 time  aqi  pm25  pm10   co  so2
+0  12468  Lucknow  Gomti Nagar  2022-08-14 10:00:00   12    68    22  2.4  3.2
+INFO:__main__:----------------------------------Updating from pickle file-----------------------------------------
+INFO:__main__:----------------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 1 ------------------------------------------
+INFO:__main__:200 
+INFO:__main__:Response got for Entry (CONTINUOUS/RESTART MODE) : 2022-08-14 12:00:00
+INFO:__main__:----------------------------------Updating from pickle file-----------------------------------------
+INFO:__main__:----------------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+INFO:__main__:----------------------------------Updating from pickle file-----------------------------------------
+INFO:__main__:----------------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 1 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 2 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 3 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 4 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 5 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 6 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 7 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 8 ------------------------------------------
+INFO:__main__:200 
+INFO:__main__:Response got for Entry (CONTINUOUS/RESTART MODE) : 2022-08-14 13:00:00
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 9 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 10 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 11 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 12 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 13 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 14 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 15 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 16 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 17 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 18 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+ERROR:__main__:HTTPSConnectionPool(host='api.waqi.info', port=443): Max retries exceeded with url: /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 (Caused by SSLError(SSLZeroReturnError(6, 'TLS/SSL connection has been closed (EOF) (_ssl.c:997)')))
+Traceback (most recent call last):
+  File "/home/ubuntu/py_env/py_project/lib/python3.10/site-packages/urllib3/connectionpool.py", line 703, in urlopen
+    httplib_response = self._make_request(
+  File "/home/ubuntu/py_env/py_project/lib/python3.10/site-packages/urllib3/connectionpool.py", line 386, in _make_request
+    self._validate_conn(conn)
+  File "/home/ubuntu/py_env/py_project/lib/python3.10/site-packages/urllib3/connectionpool.py", line 1042, in _validate_conn
+    conn.connect()
+  File "/home/ubuntu/py_env/py_project/lib/python3.10/site-packages/urllib3/connection.py", line 414, in connect
+    self.sock = ssl_wrap_socket(
+  File "/home/ubuntu/py_env/py_project/lib/python3.10/site-packages/urllib3/util/ssl_.py", line 449, in ssl_wrap_socket
+    ssl_sock = _ssl_wrap_socket_impl(
+  File "/home/ubuntu/py_env/py_project/lib/python3.10/site-packages/urllib3/util/ssl_.py", line 493, in _ssl_wrap_socket_impl
+    return ssl_context.wrap_socket(sock, server_hostname=server_hostname)
+  File "/usr/lib/python3.10/ssl.py", line 512, in wrap_socket
+    return self.sslsocket_class._create(
+  File "/usr/lib/python3.10/ssl.py", line 1070, in _create
+    self.do_handshake()
+  File "/usr/lib/python3.10/ssl.py", line 1341, in do_handshake
+    self._sslobj.do_handshake()
+ssl.SSLZeroReturnError: TLS/SSL connection has been closed (EOF) (_ssl.c:997)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ubuntu/py_env/py_project/lib/python3.10/site-packages/requests/adapters.py", line 489, in send
+    resp = conn.urlopen(
+  File "/home/ubuntu/py_env/py_project/lib/python3.10/site-packages/urllib3/connectionpool.py", line 787, in urlopen
+    retries = retries.increment(
+  File "/home/ubuntu/py_env/py_project/lib/python3.10/site-packages/urllib3/util/retry.py", line 592, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='api.waqi.info', port=443): Max retries exceeded with url: /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 (Caused by SSLError(SSLZeroReturnError(6, 'TLS/SSL connection has been closed (EOF) (_ssl.c:997)')))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ubuntu/py_env/req_data.py", line 45, in <module>
+    resp = requests.get(req_url, params=p)
+  File "/home/ubuntu/py_env/py_project/lib/python3.10/site-packages/requests/api.py", line 73, in get
+    return request("get", url, params=params, **kwargs)
+  File "/home/ubuntu/py_env/py_project/lib/python3.10/site-packages/requests/api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/home/ubuntu/py_env/py_project/lib/python3.10/site-packages/requests/sessions.py", line 587, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/home/ubuntu/py_env/py_project/lib/python3.10/site-packages/requests/sessions.py", line 701, in send
+    r = adapter.send(request, **kwargs)
+  File "/home/ubuntu/py_env/py_project/lib/python3.10/site-packages/requests/adapters.py", line 563, in send
+    raise SSLError(e, request=request)
+requests.exceptions.SSLError: HTTPSConnectionPool(host='api.waqi.info', port=443): Max retries exceeded with url: /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 (Caused by SSLError(SSLZeroReturnError(6, 'TLS/SSL connection has been closed (EOF) (_ssl.c:997)')))
+INFO:__main__:------------------------------ Final Count : 18 ----------------------------------------------
+INFO:__main__:----------------------------------Updating from pickle file-----------------------------------------
+INFO:__main__:----------------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 1 ------------------------------------------
+INFO:__main__:200 
+INFO:__main__:Response got for Entry (CONTINUOUS/RESTART MODE) : 2022-08-14 15:00:00
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+ERROR:__main__:('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+Traceback (most recent call last):
+  File "/home/ubuntu/py_env/py_project/lib/python3.10/site-packages/urllib3/connectionpool.py", line 703, in urlopen
+    httplib_response = self._make_request(
+  File "/home/ubuntu/py_env/py_project/lib/python3.10/site-packages/urllib3/connectionpool.py", line 449, in _make_request
+    six.raise_from(e, None)
+  File "<string>", line 3, in raise_from
+  File "/home/ubuntu/py_env/py_project/lib/python3.10/site-packages/urllib3/connectionpool.py", line 444, in _make_request
+    httplib_response = conn.getresponse()
+  File "/usr/lib/python3.10/http/client.py", line 1374, in getresponse
+    response.begin()
+  File "/usr/lib/python3.10/http/client.py", line 318, in begin
+    version, status, reason = self._read_status()
+  File "/usr/lib/python3.10/http/client.py", line 287, in _read_status
+    raise RemoteDisconnected("Remote end closed connection without"
+http.client.RemoteDisconnected: Remote end closed connection without response
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ubuntu/py_env/py_project/lib/python3.10/site-packages/requests/adapters.py", line 489, in send
+    resp = conn.urlopen(
+  File "/home/ubuntu/py_env/py_project/lib/python3.10/site-packages/urllib3/connectionpool.py", line 787, in urlopen
+    retries = retries.increment(
+  File "/home/ubuntu/py_env/py_project/lib/python3.10/site-packages/urllib3/util/retry.py", line 550, in increment
+    raise six.reraise(type(error), error, _stacktrace)
+  File "/home/ubuntu/py_env/py_project/lib/python3.10/site-packages/urllib3/packages/six.py", line 769, in reraise
+    raise value.with_traceback(tb)
+  File "/home/ubuntu/py_env/py_project/lib/python3.10/site-packages/urllib3/connectionpool.py", line 703, in urlopen
+    httplib_response = self._make_request(
+  File "/home/ubuntu/py_env/py_project/lib/python3.10/site-packages/urllib3/connectionpool.py", line 449, in _make_request
+    six.raise_from(e, None)
+  File "<string>", line 3, in raise_from
+  File "/home/ubuntu/py_env/py_project/lib/python3.10/site-packages/urllib3/connectionpool.py", line 444, in _make_request
+    httplib_response = conn.getresponse()
+  File "/usr/lib/python3.10/http/client.py", line 1374, in getresponse
+    response.begin()
+  File "/usr/lib/python3.10/http/client.py", line 318, in begin
+    version, status, reason = self._read_status()
+  File "/usr/lib/python3.10/http/client.py", line 287, in _read_status
+    raise RemoteDisconnected("Remote end closed connection without"
+urllib3.exceptions.ProtocolError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ubuntu/py_env/req_data.py", line 45, in <module>
+    resp = requests.get(req_url, params=p)
+  File "/home/ubuntu/py_env/py_project/lib/python3.10/site-packages/requests/api.py", line 73, in get
+    return request("get", url, params=params, **kwargs)
+  File "/home/ubuntu/py_env/py_project/lib/python3.10/site-packages/requests/api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/home/ubuntu/py_env/py_project/lib/python3.10/site-packages/requests/sessions.py", line 587, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/home/ubuntu/py_env/py_project/lib/python3.10/site-packages/requests/sessions.py", line 701, in send
+    r = adapter.send(request, **kwargs)
+  File "/home/ubuntu/py_env/py_project/lib/python3.10/site-packages/requests/adapters.py", line 547, in send
+    raise ConnectionError(err, request=request)
+requests.exceptions.ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+INFO:__main__:------------------------------ Final Count : 1 ----------------------------------------------
+INFO:__main__:----------------------------------Updating from pickle file-----------------------------------------
+INFO:__main__:----------------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 1 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 2 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 3 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 4 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 5 ------------------------------------------
+INFO:__main__:----------------------------------Updating from pickle file-----------------------------------------
+INFO:__main__:----------------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 1 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 2 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 3 ------------------------------------------
+INFO:__main__:200 
+INFO:__main__:Response got for Entry (CONTINUOUS/RESTART MODE) : 2022-08-14 16:00:00
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 4 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 5 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 6 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 7 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 8 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 9 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 10 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 11 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 12 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 13 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 14 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 15 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 16 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 17 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 18 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 19 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 20 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 21 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 22 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 23 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 24 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 25 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 26 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 27 ------------------------------------------
+INFO:__main__:200 
+INFO:__main__:Response got for Entry (CONTINUOUS/RESTART MODE) : 2022-08-14 18:00:00
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 28 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 29 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 30 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 31 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 32 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 33 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 34 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 35 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 36 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 37 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 38 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 39 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 40 ------------------------------------------
+INFO:__main__:200 
+INFO:__main__:Response got for Entry (CONTINUOUS/RESTART MODE) : 2022-08-14 19:00:00
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 41 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 42 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 43 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 44 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 45 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 46 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 47 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 48 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 49 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 50 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 51 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 52 ------------------------------------------
+INFO:__main__:----------------------------------Updating from pickle file-----------------------------------------
+INFO:__main__:----------------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 1 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 2 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 3 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 4 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 5 ------------------------------------------
+INFO:__main__:200 
+INFO:__main__:Response got for Entry (CONTINUOUS/RESTART MODE) : 2022-08-14 21:00:00
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 6 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 7 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 8 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 9 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 10 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 11 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 12 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 13 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 14 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 15 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 16 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 17 ------------------------------------------
+INFO:__main__:200 
+INFO:__main__:Response got for Entry (CONTINUOUS/RESTART MODE) : 2022-08-14 22:00:00
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 18 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 19 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 20 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 21 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 22 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 23 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 24 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 25 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 26 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 27 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 28 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 29 ------------------------------------------
+INFO:__main__:200 
+INFO:__main__:Response got for Entry (CONTINUOUS/RESTART MODE) : 2022-08-14 23:00:00
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 30 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 31 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 32 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 33 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 34 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 35 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 36 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 37 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 38 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 39 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 40 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 41 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 42 ------------------------------------------
+INFO:__main__:200 
+INFO:__main__:Response got for Entry (CONTINUOUS/RESTART MODE) : 2022-08-15 00:00:00
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 43 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 44 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 45 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 46 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 47 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 48 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 49 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 50 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 51 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 52 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 53 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 54 ------------------------------------------
+INFO:__main__:200 
+INFO:__main__:Response got for Entry (CONTINUOUS/RESTART MODE) : 2022-08-15 01:00:00
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 55 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 56 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 57 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 58 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 59 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 60 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 61 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 62 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 63 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 64 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 65 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 66 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 67 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 68 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 69 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 70 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 71 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 72 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 73 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 74 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 75 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 76 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 77 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 78 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 79 ------------------------------------------
+INFO:__main__:200 
+INFO:__main__:Response got for Entry (CONTINUOUS/RESTART MODE) : 2022-08-15 03:00:00
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 80 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 81 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 82 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 83 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 84 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 85 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 86 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 87 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 88 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 89 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 90 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 91 ------------------------------------------
+INFO:__main__:200 
+INFO:__main__:Response got for Entry (CONTINUOUS/RESTART MODE) : 2022-08-15 04:00:00
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 92 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 93 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 94 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 95 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 96 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 97 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 98 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 99 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 100 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 101 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 102 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 103 ------------------------------------------
+INFO:__main__:200 
+INFO:__main__:Response got for Entry (CONTINUOUS/RESTART MODE) : 2022-08-15 05:00:00
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 104 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 105 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 106 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 107 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 108 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 109 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 110 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 111 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 112 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 113 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 114 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 115 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 116 ------------------------------------------
+INFO:__main__:200 
+INFO:__main__:Response got for Entry (CONTINUOUS/RESTART MODE) : 2022-08-15 06:00:00
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 117 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 118 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 119 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 120 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 121 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 122 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 123 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 124 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 125 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 126 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 127 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 128 ------------------------------------------
+INFO:__main__:200 
+INFO:__main__:Response got for Entry (CONTINUOUS/RESTART MODE) : 2022-08-15 07:00:00
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 129 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 130 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 131 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 132 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 133 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 134 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 135 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 136 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 137 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 138 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 139 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 140 ------------------------------------------
+INFO:__main__:200 
+INFO:__main__:Response got for Entry (CONTINUOUS/RESTART MODE) : 2022-08-15 08:00:00
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 141 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 142 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 143 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 144 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 145 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 146 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 147 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 148 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 149 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 150 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 151 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 152 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 153 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 154 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 155 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 156 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 157 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 158 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 159 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 160 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 161 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 162 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 163 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 164 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 165 ------------------------------------------
+INFO:__main__:200 
+INFO:__main__:Response got for Entry (CONTINUOUS/RESTART MODE) : 2022-08-15 10:00:00
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 166 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 167 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 168 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 169 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 170 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 171 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 172 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 173 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 174 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 175 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 176 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 177 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 178 ------------------------------------------
+INFO:__main__:200 
+INFO:__main__:Response got for Entry (CONTINUOUS/RESTART MODE) : 2022-08-15 11:00:00
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 179 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 180 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 181 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 182 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 183 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 184 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 185 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 186 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 187 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 188 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 189 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 190 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 191 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 192 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 193 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 194 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 195 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 196 ------------------------------------------
+INFO:__main__:200 
+INFO:__main__:Response got for Entry (CONTINUOUS/RESTART MODE) : 2022-08-15 13:00:00
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 197 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 198 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 199 ------------------------------------------
+INFO:__main__:----------------------------------Updating from pickle file-----------------------------------------
+INFO:__main__:----------------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 1 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 2 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 3 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 4 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 5 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 6 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 7 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 8 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 9 ------------------------------------------
+INFO:__main__:200 
+INFO:__main__:Response got for Entry (CONTINUOUS/RESTART MODE) : 2022-08-15 14:00:00
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 10 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 11 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 12 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 13 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 14 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 15 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 16 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 17 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 18 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 19 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 20 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 21 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 22 ------------------------------------------
+INFO:__main__:200 
+INFO:__main__:Response got for Entry (CONTINUOUS/RESTART MODE) : 2022-08-15 15:00:00
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 23 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 24 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 25 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 26 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 27 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 28 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 29 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 30 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 31 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 32 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 33 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 34 ------------------------------------------
+INFO:__main__:200 
+INFO:__main__:Response got for Entry (CONTINUOUS/RESTART MODE) : 2022-08-15 16:00:00
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 35 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 36 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 37 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 38 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 39 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 40 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 41 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 42 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 43 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 44 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 45 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 46 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 47 ------------------------------------------
+INFO:__main__:200 
+INFO:__main__:Response got for Entry (CONTINUOUS/RESTART MODE) : 2022-08-15 17:00:00
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 48 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 49 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 50 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 51 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 52 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 53 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 54 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 55 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 56 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 57 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 58 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 59 ------------------------------------------
+INFO:__main__:200 
+INFO:__main__:Response got for Entry (CONTINUOUS/RESTART MODE) : 2022-08-15 18:00:00
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 60 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 61 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 62 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 63 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 64 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 65 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 66 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 67 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 68 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 69 ------------------------------------------
+INFO:__main__:-----------------------------------------------------------------------------------------------
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.waqi.info:443
+DEBUG:urllib3.connectionpool:https://api.waqi.info:443 "GET /feed/@12468?token=b932564409dc03de5dafbf24822a2a9a1c155593 HTTP/1.1" 200 None
+INFO:__main__:------------------------------------ Count : 70 ------------------------------------------

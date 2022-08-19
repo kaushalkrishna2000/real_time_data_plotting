@@ -1,0 +1,13 @@
+[Unit]
+Description=Service for data storage
+After=network.target
+
+[Service]
+User=ubuntu
+Group=www-data
+WorkingDirectory=/home/ubuntu/py_env
+Environment="PATH=/home/ubuntu/py_env/py_project/bin"
+ExecStart=/bin/bash -c 'cd /home/ubuntu/py_env/ && source py_project/bin/activate && python3 req_data.py'
+
+[Install]
+WantedBy=multi-user.target

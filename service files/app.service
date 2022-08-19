@@ -1,0 +1,11 @@
+[Unit]
+Description=Gunicorn instance to serve MyApp
+After=network.target
+
+[Service]
+User=ubuntu
+Group=www-data
+WorkingDirectory=/home/ubuntu/app_folder
+ExecStart=/bin/bash -c 'cd /home/ubuntu/app_folder/ && source /home/ubuntu/py_env/py_project/bin/activate && gunicorn -w 4 -k uvicorn.workers.UvicornWorker app:app'
+[Install]
+WantedBy=multi-user.target
