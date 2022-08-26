@@ -16,12 +16,12 @@ logging.basicConfig(filename=log_path + "log.txt", level=logging.DEBUG)
 logger = logging.getLogger(__name__)
 
 p = {
-    'token': 'b932564409dc03de5dafbf24822a2a9a1c155593'
+    'token': 'xxxxxxxxxxxxxxxxxxxxxxx' # The token you get from waqi.info
 }
 
-resource_id = "3b01bcb8-0b14-4abf-b6f2-c1bfd384ba69"  # Real Time Air Quality Index From Various Locations
 
-req_url = "https://api.waqi.info/feed/@12468"
+
+req_url = "https://api.waqi.info/feed/@xxxxx" #xxxxx is the ID of a particular station you can get from waqi.info
 
 columns = ['idx', 'place', 'station', 'time', 'aqi', 'pm25', 'pm10', 'co', 'so2']
 
